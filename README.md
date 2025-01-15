@@ -7,7 +7,7 @@ Usage:
     git@github.com:cdcutshaw/Basic-Informational-Site.git
 2. Navigate to browser directory:
     cd Basic-Informational-Site
-3. Start the server
+3. Start the server:
     node index.js
 4. Visit http://localhost:8080 in your browser to view the homepage site.
     http://localhost:8080/about --> serves about page
