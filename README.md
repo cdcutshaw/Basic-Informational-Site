@@ -1,6 +1,6 @@
 This project is part of The Odin Project's full stack Javascript curriculum. link to The Odin Project page: https://www.theodinproject.com/lessons/nodejs-basic-informational-site
 
-This project is a basic informational website built with Node.js that emonstrates basic routing and file handling. It serves static HTML files for different routes, including a home page, an about page, and a contact page. Additionally, it handles a 404 error page for non-existent routes. The project demonstrates fundamental concepts in Node.js, such as creating a server, handling routes, and reading HTML files using the built-in fs module.
+This project is a basic informational website built with Node.js, along with a refactored version using Express in a separate branch, that emonstrates basic routing and file handling. It serves static HTML files for different routes, including a home page, an about page, and a contact page. Additionally, it handles a 404 error page for non-existent routes. The project demonstrates fundamental concepts in Node.js, such as creating a server, handling routes, and reading HTML files using the built-in fs module. 
 
 Usage: 
 1. Clone this repository:
