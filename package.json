@@ -1,0 +1,15 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "This project is part of The Odin Project's full stack Javascript curriculum. link to The Odin Project page: https://www.theodinproject.com/lessons/nodejs-basic-informational-site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
